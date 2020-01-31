@@ -1,0 +1,2 @@
+# magicbill
+Billing and inventory
